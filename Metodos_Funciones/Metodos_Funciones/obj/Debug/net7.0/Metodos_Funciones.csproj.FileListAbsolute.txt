@@ -1,0 +1,14 @@
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.AssemblyInfoInputs.cache
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.AssemblyInfo.cs
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\bin\Debug\net7.0\Metodos_Funciones.exe
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\bin\Debug\net7.0\Metodos_Funciones.deps.json
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\bin\Debug\net7.0\Metodos_Funciones.runtimeconfig.json
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\bin\Debug\net7.0\Metodos_Funciones.dll
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\bin\Debug\net7.0\Metodos_Funciones.pdb
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.dll
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\refint\Metodos_Funciones.dll
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.pdb
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\Metodos_Funciones.genruntimeconfig.cache
+C:\Users\Juan Cruz Zerillo\source\repos\Metodos_Funciones\Metodos_Funciones\obj\Debug\net7.0\ref\Metodos_Funciones.dll

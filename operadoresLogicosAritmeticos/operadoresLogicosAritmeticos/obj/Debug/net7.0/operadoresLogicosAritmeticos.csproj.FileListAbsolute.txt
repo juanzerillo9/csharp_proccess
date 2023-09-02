@@ -1,0 +1,14 @@
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\bin\Debug\net7.0\operadoresLogicosAritmeticos.exe
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\bin\Debug\net7.0\operadoresLogicosAritmeticos.deps.json
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\bin\Debug\net7.0\operadoresLogicosAritmeticos.runtimeconfig.json
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\bin\Debug\net7.0\operadoresLogicosAritmeticos.dll
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\bin\Debug\net7.0\operadoresLogicosAritmeticos.pdb
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.AssemblyInfo.cs
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.dll
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\refint\operadoresLogicosAritmeticos.dll
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.pdb
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\operadoresLogicosAritmeticos.genruntimeconfig.cache
+C:\Users\Juan Cruz Zerillo\source\repos\operadoresLogicosAritmeticos\operadoresLogicosAritmeticos\obj\Debug\net7.0\ref\operadoresLogicosAritmeticos.dll
